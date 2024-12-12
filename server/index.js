@@ -29,7 +29,7 @@ app.use(
   cors({
     origin: [
       //"https://agency-blog-assignment.vercel.app",
-      "http://localhost:5173",
+      "https://travel-project-q5c5.vercel.app",
       //CLIENT_URL,
     ],
     credentials: true,

@@ -2,7 +2,7 @@
   "rewrites": [
   {
   "source": "/(.*)",
-  "destination": "https://travel-project-pi.vercel.app/?vercelToolbarCode=vbjI0RLIwIetoSV"
+  "destination": "/"
   }
   ]
   }
