@@ -7,11 +7,4 @@ export default defineConfig({
     outDir: "dist", // Ensure this matches the `distDir` in vercel.json
   },
   base: "/",
-  server: {
-    proxy: {
-      "/": {
-        target: "https://travel-project-pi.vercel.app",
-      },
-    },
-  },
 });
