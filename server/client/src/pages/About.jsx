@@ -37,7 +37,7 @@ const About = () => {
           {/* Right Side - Image Section */}
           <div className="lg:w-1/2">
             <img
-              src="/im1.jpg"
+              src="/1(2).jpg"
               alt="Nature"
               className=" object-cover rounded-lg shadow-2xl"
               // width="90%"  // or a fixed width like '500px'
