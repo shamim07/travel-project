@@ -2,7 +2,7 @@
   "rewrites": [
   {
   "source": "/(.*)",
-  "destination": "https://travel-project-6rwo3tew6-shamims-projects-9c86e9c3.vercel.app/"
+  "destination": "/"
   }
   ]
   }
