@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# travel-project
+>>>>>>> 84273e3834d01fc156bb309f151575e3a992ffd0
  with the backend API.
 
 ### Backend
@@ -178,4 +182,8 @@ backend/
 
 ## Author
 ***shamim Tanvir**  
+<<<<<<< HEAD
 [MERN Stack Developer](https://github.com/)
+=======
+[MERN Stack Developer](https://github.com/shamim07)
+>>>>>>> 84273e3834d01fc156bb309f151575e3a992ffd0
