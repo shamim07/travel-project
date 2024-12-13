@@ -2,6 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
+import OurTeam from "./ourTeam";
 
 const About = () => {
   const slides = ["/img1.jpg", "/img2.jpg", "/img3.jpg"];
@@ -64,6 +65,7 @@ const About = () => {
             </Slider>
           </div>
         </div>
+     <OurTeam/>
       </section>
     </div>
   );
